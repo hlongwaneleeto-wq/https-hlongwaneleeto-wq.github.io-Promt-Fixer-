@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head<meta name="google-site-verification" content="FvGCC6uSoyaacTzt5FzYV4yMHRfQuTa7MyKzCW0qo0Q" />>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prompt-Fi: AI Prompt Optimizer</title>
